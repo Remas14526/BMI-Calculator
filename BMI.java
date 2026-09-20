@@ -8,7 +8,7 @@ public class BMI {
    
    public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
-       System.out.println("Hellow welacome to BMI calculator");
+       System.out.println("Hellow welcome to BMI calculator");
       System.out.println("Please Enter your Height:");
        double Height=input.nextDouble();
        
